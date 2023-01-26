@@ -1,4 +1,4 @@
-# react-modern-library-boilerplate
+# react-modern-kit
 
 > Boilerplate and CLI [create-react-library](https://github.com/transitive-bullshit/create-react-library) for publishing modern React modules with Rollup and example usage via create-react-app.
 
@@ -42,8 +42,3 @@ Here is a [branch](https://github.com/transitive-bullshit/react-modern-library-b
 
 Here is a [branch](https://github.com/transitive-bullshit/react-modern-library-boilerplate/tree/feature/material-ui) which demonstrates how to create a module that makes use of a relatively complicated peer dependency, [material-ui](https://github.com/mui-org/material-ui). It shows the power of [rollup-plugin-peer-deps-external](https://www.npmjs.com/package/rollup-plugin-peer-deps-external) which makes it a breeze to create reusable modules that include complicated material-ui subcomponents without having them bundled as a part of your module.
 
-## License
-
-MIT © [Travis Fischer](https://github.com/transitive-bullshit)
-
-Support my OSS work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
